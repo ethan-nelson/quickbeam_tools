@@ -1,5 +1,5 @@
-# quickbeam_readers
-Multiple readers for QuickBeam output. When possible, structures are used in the output.
+# quickbeam_tools
+Multiple readers and tools for QuickBeam output. When possible, structures are used in the output.
 
 To be uploaded:
 * FORTRAN
